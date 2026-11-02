@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "technobladesmps1.aternos.me",
+    "port": 21002,
     "version": "1.21.1"
   },
   "position": {
